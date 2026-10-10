@@ -1,9 +1,13 @@
 // ==UserScript==
 // @name         Twitch & Kick Anti-Background Quality Downgrader
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    https://github.com/Phleesty/tampermonkey-scripts
+// @version      1.0.0
 // @description  Prevents Twitch and Kick from lowering video quality or pausing when the tab is in the background.
-// @author       You
+// @author       Phleesty
+// @homepageURL  https://github.com/Phleesty/tampermonkey-scripts
+// @supportURL   https://github.com/Phleesty/tampermonkey-scripts/issues
+// @updateURL    https://raw.githubusercontent.com/Phleesty/tampermonkey-scripts/main/Twitch-Kick-Anti-Background-Quality-Downgrader.user.js
+// @downloadURL  https://raw.githubusercontent.com/Phleesty/tampermonkey-scripts/main/Twitch-Kick-Anti-Background-Quality-Downgrader.user.js
 // @match        https://*.twitch.tv/*
 // @match        https://*.kick.com/*
 // @grant        none
