@@ -1,8 +1,7 @@
-```javascript
 // ==UserScript==
 // @name         Twitch Horizontal Flip
 // @namespace    https://github.com/Phleesty/tampermonkey-scripts
-// @version      1.0.0
+// @version      1.0.1
 // @description  Flip Twitch video horizontally with Alt+PageUp
 // @author       Phleesty
 // @homepageURL  https://github.com/Phleesty/tampermonkey-scripts
@@ -46,4 +45,3 @@
         }
     }, true);
 })();
-```
